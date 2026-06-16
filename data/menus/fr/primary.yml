@@ -19,6 +19,15 @@ items:
   descendants_targets: []
   path: "/pages/guide-bonnes-pratiques"
   file: content/fr/pages/guide-bonnes-pratiques/_index.html
+- title: Études de cas
+  slug: etudes-de-cas
+  target: "/etudes-de-cas/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/projects"
+  file: content/fr/projects/_index.html
 - title: À propos
   slug: a-propos
   target: "/a-propos/"
