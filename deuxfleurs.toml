@@ -23,16 +23,16 @@ from = "/offre/index.html"
 to = "/offre-de-services/"
 
 [[redirects]]
+from = "/equipe/equipe-editoriale/index.html"
+to = "/personnes/equipe-editoriale/"
+
+[[redirects]]
 from = "/services/index.html"
 to = "/offre-de-services/"
 
 [[redirects]]
 from = "/equipe/index.html"
 to = "/personnes/"
-
-[[redirects]]
-from = "/personnes/equipe-editoriale/index.html"
-to = "/equipe/equipe-editoriale/"
 
 [[redirects]]
 from = "/equipe/marion-rebier/index.html"
