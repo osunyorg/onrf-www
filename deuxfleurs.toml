@@ -15,10 +15,6 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/personnes/index.html"
-to = "/equipe/"
-
-[[redirects]]
 from = "/organisations/index.html"
 to = "/partenaires/"
 
@@ -31,8 +27,16 @@ from = "/services/index.html"
 to = "/offre-de-services/"
 
 [[redirects]]
+from = "/equipe/index.html"
+to = "/personnes/"
+
+[[redirects]]
 from = "/personnes/equipe-editoriale/index.html"
 to = "/equipe/equipe-editoriale/"
+
+[[redirects]]
+from = "/equipe/marion-rebier/index.html"
+to = "/personnes/marion-rebier/"
 
 [[redirects]]
 from = "/projets/index.html"
