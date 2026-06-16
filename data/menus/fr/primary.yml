@@ -3,13 +3,13 @@ title: Menu principal
 items:
 - title: Services
   slug: services
-  target: "/offre/"
+  target: "/offre-de-services/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/pages/offre"
-  file: content/fr/pages/offre/_index.html
+  path: "/pages/offre-de-services"
+  file: content/fr/pages/offre-de-services/_index.html
 - title: Études de cas
   slug: etudes-de-cas
   target: "/etudes-de-cas/"
