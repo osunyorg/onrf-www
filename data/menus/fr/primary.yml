@@ -10,6 +10,15 @@ items:
   descendants_targets: []
   path: "/pages/offre-de-services"
   file: content/fr/pages/offre-de-services/_index.html
+- title: Guide bonnes pratiques
+  slug: guide-bonnes-pratiques
+  target: "/guide-bonnes-pratiques/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/guide-bonnes-pratiques"
+  file: content/fr/pages/guide-bonnes-pratiques/_index.html
 - title: Études de cas
   slug: etudes-de-cas
   target: "/etudes-de-cas/"
