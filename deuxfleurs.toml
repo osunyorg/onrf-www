@@ -14,3 +14,19 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
 
+[[redirects]]
+from = "/personnes/index.html"
+to = "/equipe/"
+
+[[redirects]]
+from = "/organisations/index.html"
+to = "/partenaires/"
+
+[[redirects]]
+from = "/personnes/equipe-editoriale/index.html"
+to = "/equipe/equipe-editoriale/"
+
+[[redirects]]
+from = "/projets/index.html"
+to = "/etudes-de-cas/"
+
