@@ -23,6 +23,10 @@ from = "/organisations/index.html"
 to = "/partenaires/"
 
 [[redirects]]
+from = "/services/index.html"
+to = "/offre/"
+
+[[redirects]]
 from = "/personnes/equipe-editoriale/index.html"
 to = "/equipe/equipe-editoriale/"
 
