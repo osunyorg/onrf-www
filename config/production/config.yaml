@@ -7,6 +7,10 @@ osuny:
   website:
     id: c23eec85-2ca1-4a6e-80eb-703997a17d10
 
+## PARAMS
+params:
+  _merge: deep
+  plausible: "onrf.fr"
 
 ## LANGUAGE
 defaultContentLanguage: fr
