@@ -39,6 +39,10 @@ from = "/equipe/marion-rebier/index.html"
 to = "/personnes/marion-rebier/"
 
 [[redirects]]
+from = "/politique-de-confidentialite/index.html"
+to = "/responsabilites-numeriques/"
+
+[[redirects]]
 from = "/projets/index.html"
 to = "/etudes-de-cas/"
 
