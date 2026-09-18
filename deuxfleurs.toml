@@ -15,6 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/guide-bonnes-pratiques/index.html"
+to = "/le-guide/"
+
+[[redirects]]
 from = "/organisations/index.html"
 to = "/partenaires/"
 
@@ -41,6 +45,10 @@ to = "/personnes/marion-rebier/"
 [[redirects]]
 from = "/politique-de-confidentialite/index.html"
 to = "/responsabilites-numeriques/"
+
+[[redirects]]
+from = "/guide-de-bonnes-pratiques/index.html"
+to = "/le-guide/"
 
 [[redirects]]
 from = "/projets/index.html"
