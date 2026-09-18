@@ -24,7 +24,7 @@ to = "/partenaires/"
 
 [[redirects]]
 from = "/offre/index.html"
-to = "/offre-de-services/"
+to = "/nos-services/"
 
 [[redirects]]
 from = "/equipe/equipe-editoriale/index.html"
@@ -32,7 +32,11 @@ to = "/personnes/equipe-editoriale/"
 
 [[redirects]]
 from = "/services/index.html"
-to = "/offre-de-services/"
+to = "/nos-services/"
+
+[[redirects]]
+from = "/offre-de-services/index.html"
+to = "/nos-services/"
 
 [[redirects]]
 from = "/equipe/index.html"
