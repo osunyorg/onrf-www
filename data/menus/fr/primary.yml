@@ -1,13 +1,4 @@
 ---
 title: Menu principal
-items:
-- title: Guide bonnes pratiques
-  slug: guide-bonnes-pratiques
-  target: "/le-guide/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/le-guide"
-  file: content/fr/pages/le-guide/_index.html
+items: []
 
