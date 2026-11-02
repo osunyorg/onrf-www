@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: Guide de bonnes pratiques
-  slug: guide-de-bonnes-pratiques
+- title: Guide de bonnes pratiques (GÉAF)
+  slug: guide-de-bonnes-pratiques-geaf
   target: https://www.beelearning.fr/portfolio/2026-guide-de-bonnes-pratiques/
   kind: url
   new_tab: true
