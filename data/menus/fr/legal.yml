@@ -1,6 +1,15 @@
 ---
 title: Informations légales
 items:
+- title: Responsabilités numériques
+  slug: responsabilites-numeriques
+  target: "/responsabilites-numeriques/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/responsabilites-numeriques"
+  file: content/fr/pages/responsabilites-numeriques/_index.html
 - title: Mentions légales
   slug: mentions-legales
   target: "/mentions-legales/"
