@@ -1,4 +1,11 @@
 ---
 title: Menu principal
-items: []
+items:
+- title: Le Guide
+  slug: le-guide
+  target: https://www.beelearning.fr/portfolio/2026-guide-de-bonnes-pratiques/
+  kind: url
+  new_tab: true
+  children: []
+  descendants_targets: []
 
