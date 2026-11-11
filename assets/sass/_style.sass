@@ -1,4 +1,8 @@
 .block
+    &-chapter
+        &--alt_background
+            .chapter
+                border-radius: $btn-border-radius
     &-call_to_action
         .call_to_action
             .actions
@@ -11,6 +15,7 @@
 
 .organization
     .media
+        border-radius: $btn-border-radius
         picture
             mix-blend-mode: multiply
 body
@@ -37,7 +42,7 @@ footer#document-footer
     .footer-credit
         margin-top: $spacing-2
     @include media-breakpoint-down(desktop)
-        background-size: 90vw
+        background-size: 70vw
         flex-direction: column
         padding-top: $spacing-3
         padding-bottom: $spacing-3
