@@ -7,7 +7,7 @@ params:
     active: true
   logo:
     header: '/assets/images/acronyme.svg'
-    footer: '/assets/images/logotype.svg'
+    footer: '/assets/images/logotype-blanc.svg'
   home:
     head:
       title: site

@@ -1,0 +1,28 @@
+.block
+    &-call_to_action
+        .call_to_action
+            .actions
+                a
+                    &:first-child
+                        @include icon(arrow-right-line, after, true)
+                        @include hover-translate-icon(after)
+                        padding-left: $spacing-3
+                        padding-right: $spacing-3
+
+.organization
+    .media
+        picture
+            mix-blend-mode: multiply
+footer#document-footer
+    @include media-breakpoint-up(desktop)
+        display: flex
+        flex-direction: row-reverse
+        justify-content: space-between
+        .container
+            padding-bottom: 0
+            padding-top: 0 !important
+        > .container:nth-of-type(1)
+            align-items: end
+            justify-content: end !important
+
+            
